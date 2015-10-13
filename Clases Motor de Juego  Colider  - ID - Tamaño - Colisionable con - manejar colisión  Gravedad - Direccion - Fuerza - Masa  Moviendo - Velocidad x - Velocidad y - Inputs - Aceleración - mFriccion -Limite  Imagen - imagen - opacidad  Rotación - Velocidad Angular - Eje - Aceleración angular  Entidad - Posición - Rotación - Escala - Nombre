@@ -1,0 +1,36 @@
+Clases Motor de Juego
+
+Colider
+
+- ID
+- Tamaño
+- Colisionable con
+- manejar colisión
+
+Gravedad
+- Direccion
+- Fuerza
+- Masa
+
+Moviendo
+- Velocidad x
+- Velocidad y
+- Inputs
+- Aceleración
+- mFriccion
+-Limite
+
+Imagen
+- imagen
+- opacidad
+
+Rotación
+- Velocidad Angular
+- Eje
+- Aceleración angular
+
+Entidad
+- Posición
+- Rotación
+- Escala
+- Nombre
